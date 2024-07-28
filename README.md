@@ -1,4 +1,4 @@
-# Opa, Tudo bom? Eu sou o Felipe Meireles 👋
+# Opa, Tudo bom?👋
 - 📚 Programador Back-End em formação.
 - 🚀 Atualmente estudando Python e Java.
   
