@@ -2,7 +2,7 @@
 - ☕ Desenvolvedor Back-End Java
 - 🖥️ Front-End: JavaScript, HTML e CSS
 - ⚙️ Back-End: Java, Spring boot e MySQL
-- 📚 Atualmente estudando Spring + MySQL
+- 📚 Atualmente Estudando Spring Boot + MySQL
   
 ![FelipeMeirelesDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeirelesDev&theme=default&show_icons=true&hide_border=true&layout=compact)
 
